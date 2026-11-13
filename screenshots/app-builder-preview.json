@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Guillaume — galeed",
+      "hasCanvas": false,
+      "bodyTextLen": 3561,
+      "bodyTextHash": "ffb68235f8fe1b2e608af85879a4cceba7b2fbeb47c481f94968df2b33a72b49",
+      "bodyTextPrefix": "Saltar al contenido galeed:~ Acerca Oficio Obra Contacto MATRIX ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Guillaume — galeed",
+      "hasCanvas": false,
+      "bodyTextLen": 3554,
+      "bodyTextHash": "b466392138db0aeac7698cd9b5e6eaecc6bccaa1e0f6dea82a61dc96374e8b84",
+      "bodyTextPrefix": "Saltar al contenido galeed:~ Acerca Oficio Obra Contacto 01 — PO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="Galeed">
+  <rect width="16" height="16" rx="3" fill="#050806"/>
+  <path d="M3.2 4.4 L7.6 8 L3.2 11.6" fill="none" stroke="#3DFF8A" stroke-width="1.7" stroke-linecap="square" stroke-linejoin="miter"/>
+  <rect x="8.6" y="10.3" width="4.2" height="1.7" fill="#E7FFEF"/>
+</svg>
